@@ -1,1 +1,1 @@
-# templates
+Powerpoint templates, logos.
